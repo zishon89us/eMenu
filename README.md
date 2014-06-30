@@ -62,7 +62,7 @@ o My-Order Screen
 o Edit My-Order Screen  
  
 <h3>Target Machine</h3>
-Windows 8 RTM because it is going to be available in just $200 only in next two or three months (probably Octoer).
+Windows 8 Surface, Android Tablets, iPad, iPhone, Android Smartphones, Windows Phone 8.
 
 <h3>Target OS and Technologies and Services</h3>
 Windows 8 (Microsoft’s latest OS for Tablets/Touch based Devices), Cloud Databases, SAAS, also Server Instance on Cloud Service Provider like Windows Azure/Heroku/Nodester, WNS/WebSocket for communication.
